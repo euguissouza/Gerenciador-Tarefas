@@ -1,4 +1,4 @@
-package com.projeto_de_pesquisa.Gerenciador.de.tarefas;
+package com.gerenciador_tarefas.Gerenciador.de.tarefas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
